@@ -610,8 +610,8 @@ img {
   border: none;
   cursor: pointer;
   padding: 12px 50px;
-  font-size: 30px;
-  border-radius: 25px;
+  font-size: 25px;
+  border-radius: 20px;
 }
 #btn-game:hover {
   background-color: #000;
